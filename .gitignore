@@ -6,3 +6,6 @@
 
 # ignore dataset folder and subfolders
 datasets/
+
+# ignore virtual environment
+virt/
